@@ -7,7 +7,7 @@
         <title></title>
     </head>
     <body>
-        Hola Mundo
+        Hola a todos
         <div id="contenido">
             <header>
                 <hgroup>
