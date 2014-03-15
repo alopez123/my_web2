@@ -1,0 +1,49 @@
+body
+{
+  background-color: #fff6f1;
+  font-family: "Helvetica",Arial;
+}
+#contenido
+{
+    /*ALINEAR EL CONTENIDO PRINCIPAL*/
+    width: 960px;
+    margin:0 auto;
+    text-align: center;
+}
+h1
+{
+    /*TITULO COLOR NARANJA*/
+    color: #e44e2d;
+}
+nav ul li
+{
+    /* display es para colocar la barra de menu en horizontal */
+    display:inline-block;
+    /*separar el menu y cambiar color*/
+    margin-right: 20px;
+    color:#1d1d1d;
+    /*cambiar el cursor a manita*/
+    cursor: pointer;
+}
+#textopr
+{
+    /*modificar el texto su posicion y color tambien el fondo de la descripcion*/
+    width: 600px;
+    height: 300px;
+    background-color: #1d1d1d;
+    color: #fff6f1;
+    margin: 0 auto;
+    text-align: left;
+    /*bordes redondeados*/
+    border-radius: 20px;
+    /*padding arregla y se acopla al border-radius*/
+    padding: 20px;
+    /*box shadow pone sombra al texto como se ve*/
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.9);
+}
+a /*para cambiar el color de los links y mas*/
+{
+    color: #e44e2d;
+    font-weight: bold; /*marca mas los links*/
+}
+
