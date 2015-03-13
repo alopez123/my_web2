@@ -33,7 +33,7 @@
                         
                     </article> 
                     <aside>
-                        <p>Visita nuestro canal de youtube Hola amiguitooos
+                        <p>Visita nuestro canal de youtube
                         </p>
                         <p>Siguenos en facebook <a href="">ALGWEB</a></p>
                         
